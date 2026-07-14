@@ -8,6 +8,8 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Visual Guidlines 
 🎨 Visual & Aesthetic Design
 Aesthetic Pairings: Styled with negative space, high-contrast typography, and a modern light background with slate border framing.
 Inter & Space Grotesk Typography: Leveraged Inter for legible data grids and instructions, paired with Space Grotesk for clean display headings.
