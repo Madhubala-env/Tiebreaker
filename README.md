@@ -241,8 +241,3 @@ Every module follows a unified editorial design language, including:
 - Premium editorial UI
 - Responsive design
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
